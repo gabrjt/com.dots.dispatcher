@@ -1,0 +1,20 @@
+{
+    "name": "com.dots.dispatcher",
+    "version": "1.0.0",
+    "displayName": "DOTS Dispatcher",
+    "description": "DOTS Entity as Event Dispatcher.",
+    "unity": "2020.1",
+    "unityRelease": "9f1",
+    "keywords": [
+      "dots",
+      "test"
+    ],
+    "dependencies": {
+        "com.dots.extensions": "1.0.0"
+    },
+    "author": {
+      "name": "Gabriel Trabasso",
+      "email": "gabr.j.t@gmail.com",
+      "url": "https://github.com/gabrjt/dots-dispatcher"
+    }
+}
