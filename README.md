@@ -1,3 +1,5 @@
+[![openupm](https://img.shields.io/npm/v/com.dots.dispatcher?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.dots.dispatcher/)
+
 # DOTS Dispatcher
 
 DOTS Dispatcher is a simple yet performant entity as event system to be used with Unity's DOTS ECS.
